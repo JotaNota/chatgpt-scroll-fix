@@ -2,7 +2,8 @@
 
 ## Overview
 
-This JavaScript bookmarklet attempts to restore conversation scrolling in ChatGPT when browser focus has moved away from the scroll container. It manually returns focus to that container.
+This JavaScript bookmarklet attempts to restore conversation scrolling in ChatGPT browser. 
+It manually returns focus to that container.
 
 ## How it works
 
